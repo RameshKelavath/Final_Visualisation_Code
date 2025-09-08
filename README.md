@@ -57,10 +57,8 @@ The analysis leverages **Python (pandas, matplotlib, seaborn, plotly)** to gener
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The cryptocurrency market is **dynamic, volatile, and highly interrelated**. Bitcoin and Ethereum dominate but also mirror each other, reflecting how market sentiment influences movements across the ecosystem.  
 This project highlights the **importance of data visualization** in making complex financial data more interpretable for strategic decision-making.
 
----
 
-## 📂 Repository Structure
